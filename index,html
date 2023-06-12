@@ -1,3 +1,14 @@
+
+
+
+
+
+
+
+
+
+
+
 <html>
 <head>
 <style>
@@ -33,3 +44,30 @@ text-align: center;
     Age
     <br/>
     <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+<br/>
+    
+   Your Team
+   <br/>
+    <select id="country" name="country">
+      <option value="australia">AlahlySC</option>
+      <option value="canada">AlwdadSC</option>
+      <option value="usa">ZamalekSC</option>
+      <option value="usa">AltargySC</option>
+      <option value="usa">ALhelal</option>
+    </select>
+    <br/>
+    <br/>
+  
+    <input type="submit" value="Submit">
+  </form>
+</div>
+
+</body>
+</html>
+
+
+
+
+
+
+
