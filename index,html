@@ -1,92 +1,35 @@
-====== headers example ======
-al ahly
-mostafa
-ebvdvv
-abdo
-amir
-galal
-====== paragraph example ======
-This is a paragraph.
+<html>
+<head>
+<style>
+div {text-align: center
+}
+body {
+  background-image: url("https://img.youm7.com/ArticleImgs/2020/11/28/398042-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%89-%D8%A8%D8%B7%D9%84-%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7.jfif");
+  background-size: 700px 500px;
+  background-repeat: no-repeat;
+}
+h1 {
+text-align: center;
+}
+</style>
+</head>
+<body>
+
+<h1>Africa Champions leage</h1>
+
+</style>
+<body>
 
 
-====== anchor (link) example ======
-This is a Link
 
-====== div (container) example ======
-this is a div, an element that contains other elements
+<div>
+  <form action="/action_page.php">
+    Name
+    <br/>
+    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+    <br/>
+    
 
-====== image example ======
-Delicious food
-====== dropdown list example ======
-
-please select a career
-
-
-====== lists example ======
-List item 1
-List item 2
-List item 3
-Numbered item 1
-Numbered item 2
-Numbered item 3
-====== table example ======
-Column 1	Column 2
-Cell 1	Cell 2
-Cell 3	Cell 4
-====== embedding a link example ======
-
-
-this is the form element, it contains the inputs you want to send in the form for example you can make a login form with inputs for
-1=> username 2=> password
-and then the user submit the form
-
-====== form example ======
-Text: 
-Ahmed Ali
-
-
-textarea: 
-Enter your address
-
-
-reset: it resets the form inputs 
-
-Email: 
-ahmed@gmail.com
-
-
-password 
-•••
-
-
-checkbox example
-fries  ketchup  mayonaize  cola 
-
-car color
-blue 
-black 
-yellow 
-
-file No file chosen
-
-button 
-
-number 
-123
-
-
-date 
-06/01/2023
-
-
-time 
-02:00 PM
-
-
-datetime-local 
-06/20/2023 08:17 AM
-
-
-normal submit button 
-
-image submit button 
+    Age
+    <br/>
+    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
